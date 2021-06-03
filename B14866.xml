@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Camp-bell, or the ironmongers faire feild.] [A pageant at the installation of Sir Thomas Cambell in the office of Lord Mayor of London, 29 Oct. 1609.]</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14866</idno><idno type="EEBO-CITATION">99882461</idno>
+  <idno type="VID">193735</idno>
+  <idno type="EEBO-PROQUEST">2264202202</idno>
+  
+            <idno type="STC">STC 18265</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.33.e.7.[23]</idno>
+            <idno type="PROQUEST">ocm99882461</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882461e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193735)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C28:1[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Camp-bell, or the ironmongers faire feild.] [A pageant at the installation of Sir Thomas Cambell in the office of Lord Mayor of London, 29 Oct. 1609.]</title>
+                  <author>Worshipful Company of Ironmongers (London, England).</author>
+               </titleStmt>
+               <extent>[9+] p.   </extent>
+               <publicationStmt>
+                  <publisher>E. Allde,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1609.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC.</note>
+                  <note>Imperfect: t.p. wanting; replaced by a t.p. surrogate in modern ms.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cambell, Thomas, --  Sir, d. 1614 --  Early works to 1800.</term>
+               <term type="topical_term">Pageants --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="pageant">
+            <pb facs="tcp:193735:1"/>
+            <pb facs="tcp:193735:1"/>
+            <pb facs="tcp:193735:2"/>
+            <pb facs="tcp:193735:2"/>
+            <head>The Ironmongers Faire Feild.</head>
+            <div type="description_of_scene">
+               <p>In a goodly Island styled <hi>Insula beata,</hi> or the land of Happynes, we suppose that true <hi>Maiesty</hi> holdeth her gouernement: This Island is round engirt with rich Rockes of Gold Oare and Chrisolytes, the maine O<g ref="char:EOLhyphen"/>cean also running naturally about it, wherein Corral, Amber, Chrysitis and the other rich gemmes of the Sea do shew themselues, as glorious embellishments to the Rockes. There, in a golden Feild or Garden, imagined of the nature of the <hi>Hesperides,</hi> where all the Trees and Fruites are of pure golde, do we erect <hi>Maie<g ref="char:EOLhyphen"/>sties</hi> watch Tower, which being square, consifteth of very artificiall Colloms, Arches, Cornish, Freeze &amp; other skilfull Architecture, but the whole bodie ther<g ref="char:EOLhyphen"/>of being so transparant, as both she and her royall at<g ref="char:EOLhyphen"/>tendants may be easily therein discerned.</p>
+               <p>In a rich Throane, which supporteth three imperi<g ref="char:EOLhyphen"/>all Diademes, sitteth a beautifull Nymph, attyred apt<g ref="char:EOLhyphen"/>ly to her high state and dignity, in whome we presup<g ref="char:EOLhyphen"/>pose the person of <hi>Maiestie.</hi> She hath a costly vaile of golde Tinsell on her head, &amp; therevpon her Crowne imperiall, a Mownd in her left hand, and a golden Scepter in her right.</p>
+               <p>Directly before her, in a place answerable to her worth and merrit, do we seate <hi>Religion,</hi> in a Virgin ve<g ref="char:EOLhyphen"/>sture of pure white, vayled round with a flame colour Tinsell shadowe. She holdes a rich Booke in one hand, and a siluer rod in the other, as her Ensignes of good reward and encouragement, to the Dilligent &amp; Studious, and desertfull chastisement of such, as by o<g ref="char:EOLhyphen"/>uer headdie zeale, or too coole remissnes, shall dare to disturb her lawes and instructions.</p>
+               <p>On either side the state, but somewhat in a lower
+<pb facs="tcp:193735:3"/> discent, are seuerall seates, the one on the right hand is supplyed by a fayre and gracious Nimph tearmed <hi>Nobilitie,</hi> in a loose rich garment of many commixed colours, and a mantle of siluer Tinsell foulded about her, holding a siluer staffe of Counsell in her hand. The other on the left hand personates <hi>Pollicy,</hi> richly vesturde as a person of honour, with a siluer staffe like<g ref="char:EOLhyphen"/>wise, and a roule of paper in his other hand: These are not vnapt attendants, to be euer in presence of Soue<g ref="char:EOLhyphen"/>raigne Maiestie.</p>
+               <p>Lowest of all on this forefront, we place <hi>Memorie</hi> and <hi>Vigillancie,</hi> two respected handmaides to <hi>Maiestie,</hi> and of very serious imployment. The one to foresee and preuent domestick or forraigne vnbeseeming de<g ref="char:EOLhyphen"/>uises or practises, And the other to register all occur<g ref="char:EOLhyphen"/>rences, that make most for the glory of so great a go<g ref="char:EOLhyphen"/>uernement, as also for the good of the weale publike, <hi>Vigillancie</hi> holdeth a Bell and an houre Glasse, <hi>Memorie</hi> a Table Booke with a siluer pen still ready to write.</p>
+            </div>
+            <div type="description_of_scene">
+               <head>So much for the forefront.</head>
+               <p>In the most eminent place behinde, &amp; back to backe with Soueraigne <hi>Maiestie,</hi> we seate that euer blessed Companyon of all Royall Kingdomes, <hi>Tranquility,</hi> a Nimphe of gracious and Maiesticke presence, attired in Carnation, with a rich Tinsell veyle likewise vpon her head, a branch of Palme in one hand, and a fayre Chaplet or wreath of Floures in the other.</p>
+               <p>
+                  <hi>Aglaia, Thalia,</hi> and <hi>Euphrosine,</hi> tho se three gracious Deities, in whome are figured <hi>Cheerfulnes, Peacefulnes,</hi> and <hi>Happynes,</hi> are seated according to their seuerall degrees and condition. The first in Crimson Tinsell, the second in willowe collour, &amp; the third in Purple.
+<pb facs="tcp:193735:3"/> The last sitteth in a golden Caue, holding a faire shield wherein <hi>Fame</hi> triumpheth ouer <hi>Death.</hi> The second holdes another Shield, wherein <hi>Eternity</hi> treadeth v<g ref="char:EOLhyphen"/>pon <hi>Hell</hi> and the <hi>Deuill,</hi> and the first hath her Shield, wherein <hi>Tyme</hi> sits sleeping, his houre glasse layd along and not running, and his Scithe broken in two pee<g ref="char:EOLhyphen"/>ces: Alluding to the continuall beatitude of <hi>Maiesties</hi> triumphing, which neither <hi>Time, Death</hi> nor <hi>Hell,</hi> shall in our best wishes) haue power to alter.</p>
+               <p>The whole Island and Tower of soueraigne <hi>Maiestie,</hi> we suppose to floate vpon the calme Sea of discreete and loyall affections. Being round circkled with the immooueable Rocks, First of <hi>Dutie,</hi> to obey the com<g ref="char:EOLhyphen"/>maund of sacred <hi>Maiestie,</hi> Next, enriched with the wealthie treasures of strong <hi>Power,</hi> to offend any in<g ref="char:EOLhyphen"/>sulting forraigne enemie, and to defend from the (in<g ref="char:EOLhyphen"/>solence of home bred trecherie</p>
+               <p>Out of those Rockes (as good thoughts do dayly a<g ref="char:EOLhyphen"/>rise out of loyall hearts) in diuers places are to be dis<g ref="char:EOLhyphen"/>cerned, the issuing foorth of those harmeles Serpents called Lyzards, which by <hi>Pliine, Gesner,</hi> and other wri<g ref="char:EOLhyphen"/>ters, are said to breede in the riftes of Rockes. But ac<g ref="char:EOLhyphen"/>cording to <hi>Cardanus, Mathiolus, Solynus,</hi> &amp;c. they hold them to breed in Iron Mines, and in that regard (as I guesse) the Lyzard is giuen as Creast to the Armes of the Ironmongers Society, which inciteth me the rather willingly thus to make vse of them, as sporting and playing in the Sun-shine of this royal happynes.</p>
+               <p>The Sea (as hath bene said before) round cirkling this Island and Tower, which seemeth to floate in a ceaseles motion: we order foure <hi>Neriades</hi> or <hi>Trytons,</hi> to daunce vpon the billowes thereof, at the seuerall
+<pb facs="tcp:193735:4"/> corners of the Island. In them we figure those foure Seas, that naturally do engirt this Island of great Brit<g ref="char:EOLhyphen"/>taine: As the Germane Ocean on the East side, the <hi>Irishe</hi> on the <hi>West:</hi> the <hi>Scottish</hi> or <hi>Albanian</hi> on the <hi>North,</hi> &amp; the <hi>Gallo-Belgick</hi> or <hi>French</hi> on the <hi>South.</hi> These <hi>Trytons,</hi> with others of their younger broode, do play vpon instruments, as if they answered one another in Ecchoes and pleasing reportes. In briefe, this whole relation, and circumstances thereto belonging, is but a morall type or figure of his Maiesties most happie and gracious gouernement, which heauen blesse with vnaltering continuance.</p>
+               <p>To acquaint the Lord Maior, with the relation and meaning of both these deuises, and yet with such bre<g ref="char:EOLhyphen"/>uity as so busie a day doth conueniently require, we haue made election of the supposed shapes of great Brittaines two famous Champions, Saint <hi>Gronge,</hi> and Saint <hi>Andrew,</hi> vnited now in euer d<gap reason="illegible" resp="#pdcc" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing amitie: S. <hi>George</hi> worthily mounted vpon his conquered Dra<g ref="char:EOLhyphen"/>gon, and S. <hi>Andrew</hi> on a goodly Vnicorn, armed at all pointes as best becommeth them And the rather haue we yeelded to this kinde of deliuery, because our time for preparation hath bene so short, as neuer was the like vndertaken by any before, nor matter of such moment so expeditiously performed. Besides, the weake voyces of so many Children, which such shewes as this doe vrgently require, for persona<g ref="char:EOLhyphen"/>ting each deuise, in a crowde of such noyse and vnciuill turmoyle, are not any way able to be vn<g ref="char:EOLhyphen"/>derstood, neither their capacities to reach the full height of euery intention, in so short a limitation for study, practise, and instruction. In regard of both
+<pb facs="tcp:193735:4"/> which weightie enforcements, the two imagined Champions, being men of action and audible voices, doe (on behalfe of that worthy Companie) at whose cost and charge all hath bene performed, in as briefe a Method as can be desired, expresse the full drift and intent of the whole dayes Tryumphe.</p>
+            </div>
+            <div type="speech">
+               <head>Saint <hi>Andrew</hi> his speech to the Lord Maior.</head>
+               <sp>
+                  <p>
+                     <seg rend="decorInit">H</seg>Onourable Lord, this first deuise, had it but a tongue whereby to expresse it selfe, would vse this or the like language to you. It deriues it owne best conceit from the borrowed Cara<g ref="char:EOLhyphen"/>cter of your name, <hi>Faire Feild,</hi> and your name being <hi>Campbell,</hi> dooth argue and expresse the very same. It is a Feild, wherein, besides the goodly Trees, Fruites, and faire Fountaine that giues it ornament, you may discerne a farre fayrer embellishment. Those seauen royall and vnparalled Vertues, that are this lifes best glory, and the futures Crowne, do make it seeme a Feild of heauenly happines. For beside their owne en<g ref="char:EOLhyphen"/>dowment of worth and excellence, deliuered in their seuerall names and natures: They appeare (in hope<g ref="char:EOLhyphen"/>full presage) to foretell or prognosticate, seauen gladsome and fayre nourishing yeares of comfort, to extenuate or wipe out the remembrance of those sea<g ref="char:EOLhyphen"/>uen sad &amp; disconsolate yeares passed. For in their hea<g ref="char:EOLhyphen"/>uen-borne natures, they declare a true sense and fee<g ref="char:EOLhyphen"/>ling, of those woes, wants, and calamities, which so long time hath lyen heauie vpon this Cittie. And ther<g ref="char:EOLhyphen"/>fore,
+<pb facs="tcp:193735:5"/> with this your reioycing day, beside their pre<g ref="char:EOLhyphen"/>sence in person to honor it, they do eleuate their di<g ref="char:EOLhyphen"/>uine soules in sweete Hymnes, Paeans and pleasing Songs to heauen, that their hope may succeed in hap<g ref="char:EOLhyphen"/>pines, their expectation in the largest fulnes, and their desires to be granted endlesse.</p>
+                  <q>
+                     <l>That, as Faire Feild begins our mirthfull day,</l>
+                     <l>So, ne're more may fayre Comfort fall away.</l>
+                  </q>
+               </sp>
+            </div>
+            <div type="speech">
+               <head>Saint <hi>George</hi> his speech to the Lord Maior.</head>
+               <sp>
+                  <p>
+                     <seg rend="decorInit">W</seg>Hat I haue to say woorthy Lord) must likewise be short, and suta<g ref="char:EOLhyphen"/>ble to this serious daies busines. Knowe then, that the tipe or figure of true born <hi>Maiestie,</hi> is caractered in this glorious Monument, Presenting a fortunate and happy Island, where awfull power commaundeth, true Religion with honourable Care and Councell assisteth, and Loyalty in all Dutye obeyeth. Where Tranquility backs al other blessings, and where the diuine Graces so gouerne, as neither Mallice, Time, Death nor hell it selfe, can hurt or hinder what heauen will haue to prosper. The Seas do round engirt it, as the <hi>German, I<g ref="char:EOLhyphen"/>rish, Scottish,</hi> and <hi>Gallo-Belgick,</hi> figured in those Trytons liuing in that watry Element: But loyall hearts, spirits of courage, and hands inured to warre or peace, are the best walles about it, as defensiue against inuading Enuie, or homebred trecherie, as offensiue to any hot spleene of Malignitie. <hi>So much for this.</hi>
+                  </p>
+                  <p>And now honourable Lord, I am to salute yee
+<pb facs="tcp:193735:5"/> from that kinde, and no lesse kinde then truely Wor<g ref="char:EOLhyphen"/>shipfull Company of Ironmongers, of whome (by freedomes affinity) you are a worthy Brother. How their loue to you declares it selfe apparantly this day, I spare to speake, because that euery eye plainely dis<g ref="char:EOLhyphen"/>cernes it. And let me tell you, did their number hold leuell with other Societies, or carry correspondencie in the best helping matter, their bountie should hard<g ref="char:EOLhyphen"/>ly haue gone behinde the best, and yet they come now but little short of precedent examples. In a word, their hearts, pursses and all are yours, but much more their loue, which goeth beyond all. So worthy Lord;
+<q>
+                        <l>If you accept but what is done this day,</l>
+                        <l>Be yours the Honour, so they bad me say.</l>
+                     </q>
+                  </p>
+               </sp>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
